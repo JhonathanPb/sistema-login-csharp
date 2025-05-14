@@ -1,14 +1,23 @@
 # Sistema de Login em C#
 
-Projeto simples em C# que simula um sistema de cadastro e login de usuários no console.
+Este projeto é um sistema simples de cadastro e login de usuários desenvolvido em C#. Ele foi criado como parte dos meus estudos em programação e lógica.
 
-## Funcionalidades
-- Cadastro de novo usuário
-- Login com validação de credenciais
+## 📌 Funcionalidades
 
-## Como executar
-Compile e execute o arquivo `CadastroElogin.cs` em um ambiente que suporte C#.
+- ✅ Cadastro de novos usuários
+- ✅ Login com verificação de credenciais
+- ✅ Armazenamento dos dados em memória (simulado)
 
----
+## 💻 Tecnologias utilizadas
 
-Criado como parte dos meus estudos em programação.
+- Linguagem: **C#**
+- Plataforma: **VISUAL STUDIO**
+
+## 📚 Objetivo
+Este projeto tem fins educacionais. A ideia é colocar em prática os conceitos de lógica de programação, controle de fluxo e estrutura de dados com C#.
+
+## 🚀 Como executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/JhonathanPb/CadastroElogin.cs

@@ -21,3 +21,6 @@ Este projeto tem fins educacionais. A ideia é colocar em prática os conceitos 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/JhonathanPb/CadastroElogin.cs
+
+2. Baixe :
+   Compile e execute o arquivo `CadastroElogin.cs` em um ambiente que suporte C#.
